@@ -1,0 +1,5 @@
+church\financialreports\ChurchFinancialReports\Service\FinancesService.class
+church\financialreports\ChurchFinancialReports\Controller\FinancesController.class
+church\financialreports\ChurchFinancialReports\model\Finances.class
+church\financialreports\ChurchFinancialReports\Repository\FinanceRepository.class
+church\financialreports\ChurchFinancialReports\ChurchFinancialReportsApplication.class

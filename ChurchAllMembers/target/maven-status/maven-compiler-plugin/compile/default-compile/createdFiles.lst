@@ -1,0 +1,5 @@
+church\allmembers\ChurchAllMembers\model\Members.class
+church\allmembers\ChurchAllMembers\Repository\MembersRepository.class
+church\allmembers\ChurchAllMembers\ChurchAllMembersApplication.class
+church\allmembers\ChurchAllMembers\controller\Members_Controller.class
+church\allmembers\ChurchAllMembers\Services\MembersService.class
